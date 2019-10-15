@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-My Name is Piyali.
-=======
-My Name is Rituparna
->>>>>>> 41cbf74834924750cb94b4c9c2b8158fefd1659d
+Our Names are Piyali & Rituparna
